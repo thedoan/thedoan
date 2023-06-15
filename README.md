@@ -2,10 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Youtube
-- 🌱 I’m currently learning ... React Native
-- 👯 I’m looking to collaborate on ... React Native
-- 🤔 I’m looking for help with ... Saas
+- 🔭 I’m currently working on Castis Asia
+- 🌱 I’m currently learning Java Spring
+- 👯 I’m looking to collaborate on Java Spring
+- 🤔 I’m looking for help with Java Spring
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [@mr.thedoan](https://twitter.com/MrTheDoan)
 - 😄 Pronouns: ... He/Him
